@@ -47,6 +47,7 @@ export default function SplashScreen({
                   src="/images/note.webp"
                   width={200}
                   height={200}
+                  priority
                 />
               </motion.div>
               <motion.div
@@ -64,6 +65,7 @@ export default function SplashScreen({
                   src="/images/pen.webp"
                   width={100}
                   height={100}
+                  priority
                 />
               </motion.div>
             </div>
