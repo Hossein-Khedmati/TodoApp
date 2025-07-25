@@ -1,4 +1,4 @@
-./images/screenshot.png 
+<img width="1895" height="905" alt="image" src="https://github.com/user-attachments/assets/2a4cd480-a4ee-464a-b742-6143f4f4c644" />
 
 Overview
 A modern ToDo application built with Next.js, TypeScript, and Tailwind CSS featuring:
