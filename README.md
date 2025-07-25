@@ -71,7 +71,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/todoapp-nextjs.git
+git clone https://github.com/Hossein-Khedmati/TodoApp.git
 Navigate to the project directory:
 
 bash
